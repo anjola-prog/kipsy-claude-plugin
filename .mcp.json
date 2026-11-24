@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kipsy": {
+      "type": "http",
+      "url": "https://kipsy.io/mcp"
+    }
+  }
+}

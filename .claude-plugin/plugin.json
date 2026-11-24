@@ -1,0 +1,21 @@
+{
+  "name": "kipsy",
+  "displayName": "Kipsy",
+  "version": "0.1.0",
+  "description": "Search, read and save your own Kipsy library through Kipsy's remote MCP server.",
+  "author": {
+    "name": "Kipsy",
+    "email": "hello@kipsy.io",
+    "url": "https://kipsy.io"
+  },
+  "homepage": "https://kipsy.io/connect",
+  "repository": "https://github.com/anjola-prog/kipsy-claude-plugin",
+  "keywords": ["bookmarks", "saved-links", "search", "memory", "productivity"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://kipsy.io/connect",
+  "supportUrl": "https://kipsy.io/support",
+  "privacyPolicyUrl": "https://kipsy.io/privacy",
+  "termsOfServiceUrl": "https://kipsy.io/terms",
+  "mcpServers": "./.mcp.json",
+  "defaultEnabled": true
+}
