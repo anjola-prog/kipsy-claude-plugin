@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Kipsy">
-  <rect width="512" height="512" fill="#FFFFEB" />
-  <!-- The K from kipsy-wordmark.svg, scaled to fill the icon canvas.
-       Kept inside the 80% maskable safe zone so circular masks don't crop it. -->
-  <g transform="translate(130 106) scale(17.91)">
-    <path d="M13.9926 16.75H9.62453L6.53975 12.225H1.99894V8.875H6.51507L9.67389 4.225H14.0666L9.5505 10.275L13.9926 16.75ZM3.70174 16.75H0V0H3.70174V16.75Z" fill="#212121" />
-  </g>
-</svg>

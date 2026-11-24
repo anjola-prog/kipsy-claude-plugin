@@ -4,11 +4,11 @@ Kipsy is a private library of web pages you chose to save. This plugin connects 
 
 ## What this plugin contains
 
-- `.claude-plugin/plugin.json` — directory and runtime metadata.
-- `.mcp.json` — one remote HTTP MCP server, `https://kipsy.io/mcp`.
-- `skills/kipsy/SKILL.md` — a short workflow skill for searching, citing and saving.
-- `assets/icon.png` — the Kipsy K mark (`icon-dark.png` for dark backgrounds).
-- `LICENSE` — All Rights Reserved.
+- The plugin manifest (directory and runtime metadata).
+- One remote HTTP MCP server, `https://kipsy.io/mcp`.
+- A short workflow skill for searching, citing and saving.
+- The Kipsy icon.
+- The licence (All Rights Reserved).
 
 This plugin bundles no executable code, hooks, scripts, local MCP server, package installers or environment-variable reads. It does not access local files.
 
